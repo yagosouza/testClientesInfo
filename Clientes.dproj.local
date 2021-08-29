@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/25 13:58:23.000.385,=C:\Users\yaago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/25 13:59:01.000.056,C:\Users\yaago\Documents\Embarcadero\Studio\Projects\ClientesInfo.dproj=C:\Users\yaago\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/08/25 14:00:03.000.740,C:\Users\yaago\Documents\Embarcadero\Studio\Projects\uMain.pas=C:\Users\yaago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/25 14:00:03.000.740,C:\Users\yaago\Documents\Embarcadero\Studio\Projects\uMain.dfm=C:\Users\yaago\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/08/25 14:00:11.000.702,C:\Users\yaago\Documents\Embarcadero\Studio\Projects\Clientes.dproj=C:\Users\yaago\Documents\Embarcadero\Studio\Projects\ClientesInfo.dproj</Transaction>
+    <Transaction>2021/08/25 14:56:55.000.263,C:\Users\yaago\Documents\Embarcadero\Studio\Projects\uClientes.pas=C:\Users\yaago\Documents\Embarcadero\Studio\Projects\uMain.pas</Transaction>
+    <Transaction>2021/08/25 14:56:55.000.263,C:\Users\yaago\Documents\Embarcadero\Studio\Projects\uClientes.dfm=C:\Users\yaago\Documents\Embarcadero\Studio\Projects\uMain.dfm</Transaction>
+    <Transaction>2021/08/25 15:00:42.000.214,C:\Clientes\uClientes.dfm=C:\Users\yaago\Documents\Embarcadero\Studio\Projects\uClientes.dfm</Transaction>
+    <Transaction>2021/08/25 15:00:42.000.214,C:\Clientes\uClientes.pas=C:\Users\yaago\Documents\Embarcadero\Studio\Projects\uClientes.pas</Transaction>
+    <Transaction>2021/08/25 15:00:44.000.154,C:\Clientes\Clientes.dproj=C:\Users\yaago\Documents\Embarcadero\Studio\Projects\Clientes.dproj</Transaction>
+    <Transaction>2021/08/25 15:52:47.000.968,=C:\Clientes\Unit1.pas</Transaction>
+    <Transaction>2021/08/25 15:53:05.000.177,C:\Clientes\Unit1.pas=C:\Clientes\uViaCep.pas</Transaction>
+    <Transaction>2021/08/27 17:23:31.000.299,C:\Clientes\uViaCep.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
